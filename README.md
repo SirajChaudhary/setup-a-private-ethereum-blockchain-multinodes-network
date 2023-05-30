@@ -1,5 +1,7 @@
 It is a step-by-step guide to setup a private ethereum blockchain multi-nodes (multiple ledgers) network using [geth](https://geth.ethereum.org/).
 
+<b> This setup is as per geth version 1.10.15 so make sure you have same version of geth </b>
+
 ## Salient Features
 - Setup enterprise grade private ethereum blockchain network on multi-nodes (rather solo node)
 - Used geth (Official Go implementation of the Ethereum protocol)
